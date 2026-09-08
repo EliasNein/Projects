@@ -1,0 +1,3 @@
+[submodule "crypto-dca-bot"]
+	path = crypto-dca-bot
+	url = https://github.com/EliasNein/crypto-dca-bot.git
